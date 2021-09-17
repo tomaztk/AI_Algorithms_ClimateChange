@@ -17,3 +17,10 @@ AI and ML Algorithms for predicting and preventing climate change
 2. Databricks
 3. Python / R
 4. Data storage
+
+
+## Fields
+
+### Agriculture
+1. Pest damaging (finding least / most damaging and substitutes)
+2. 
