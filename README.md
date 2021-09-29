@@ -29,11 +29,14 @@ AI and ML Algorithms for predicting and preventing climate change
 
 Addressing climate change with help of Machine learning
 Emerald 09:00 - 09:45
-Tomaž Kaštrun, Data Platform MVP
+Tomaž Kaštrun
+29.09.2021
+
 About
 Abstract
 Climate change is a fact, it is happening, and we need not only actively participate in tackling it, but also we need to raise awareness. One area that can be identified is the area of using and implementing machine learning algorithms and techniques to tackle climate change. Addressing this issue can be done using machine learning and different approaches to tackling it, from mitigating or reducing and stopping CO2 emissions or adapting to the changes that climate change will bring. With the help of Microsoft Azure services, we will go through some of the machine learning concepts and how Azure can help us address, reduce, adapt to these issues or which tools can be found in Azure to help take actions and address policies. The session will look into climate change modeling, efficient sensing, biodiversity, solar geo-modeling, transportation, and electricity with the help of Machine Learning and Microsoft Azure.
-The heat is on!
+
+# The heat is on!
 7.500 major disaster events were recorded in past 20 years
 Claiming 1.2 milion lives, BUT affecting 4.2 billion people
 Result is approx.  3 trillion USD losses in global economic
@@ -58,7 +61,7 @@ Adapting to changes
 
 Each segment will have a proposed Microsoft Azure architecture
 
-Approaches for tackling climate change
+## Approaches for tackling climate change
  
 Tackling issues
 •	 Predicting rare events
@@ -66,7 +69,7 @@ Tackling issues
 •	 Accelerating forestation
 •	 Image analysis and neural networks
 
-1.1 Predicting rare events
+### 1.1 Predicting rare events
 Decision forests
 Numerical simulations
 GBM
@@ -74,13 +77,14 @@ Boosting algorithms for better recall-precision balance (AdaCost, PNRule)
 Corresponding short-term predictions for chaotic systems
 Multifidelity stohastic computational models (HiFi Monte Carlo + LoFi Markov chain)
 
-1.2 Scheduling and planning the renewables
+### 1.2 Scheduling and planning the renewables
 Short- and medium-term forecasting of consumption (historical data, physical and image data)
 Decision-focused forecasting
 Reinforcement learning to accomodate system balacing
 Enabling decentralized optimization for solar and wind production using control theory with enforced deep learning
 Wind turbines optimization, Peak-shaving
-1.3 Accelerating forestation
+
+### 1.3 Accelerating forestation
 Land abandoment detection (CNN on Landsat or Sentinel)
 Remote sensing for deforestation (Open forrest project)
 Illegal and optimal selective logging 
@@ -88,7 +92,8 @@ Mapping plantations and succesional forests (Random Forest, SVM, ANN)
 Remote sensing datasets (Landsat optical data, ALOS/PALSAR L-band, Lidar)
 Canopy height model (CHM)
 Categorization of light detection and ranging vegetation
-1.4 Image Analysis
+
+### 1.4 Image Analysis
 Understanding land and land use attributes
 Machine Learning for Remote sensing
 •		Satellite images
@@ -101,7 +106,7 @@ Personas and technology
 Architecture -  Stream architecture
 Architecture – modern analytics with Databricks
 
-Mitigating and reducing 
+# Mitigating and reducing 
 CO2 emissions
  
 Mitigations and lowering CO2
@@ -109,13 +114,14 @@ Mitigations and lowering CO2
 •	 Transport
 •	 Buildings and cities
 
-2.1 Farms and agriculture
+## 2.1 Farms and agriculture
 Optimization algorithms for precision agriculture
 LiDar and remote sensoring for (over) heating and soil structure and management
 Agricultural desease detection and invaluable crop detection
 Neural Networks for water and crop management using IoT
 Crop yield predictions using aerial data to improve moisture, fertilization and natural nutrient level
-2.2 Transport
+
+## 2.2 Transport
 Polycentric urban forms and use of graph theory
 Theory based residual neural network (ResNet)
 Spatiotemporal topic model
@@ -124,7 +130,7 @@ Modelling transport demands and calculating impact on shared mobility concepts
 Optimizing freight routing and bundling
 Improving EV and low-carbon transportation
 
-2.3 Buildings and cities
+## 2.3 Buildings and cities
 Shock responsive dwellings and cities for drought with remote sensing and local administrative data
 Flood cities remote sensing using drone technology
 Identification of foundation | construction | complete buildings
@@ -137,7 +143,7 @@ Architecture – Image classification
 Architecture – contactless IoT interfaces with Azure intelligent edge
 Architecture – Image classification with CNN
 
-Adapting to changes
+## Adapting to changes
 
  
 What can we do today?
@@ -150,7 +156,7 @@ The green plan for EU 2050
  - Collaborate with the climate change ecosystem
  
 
-Humanitarian response
+### Humanitarian response
 Probability models for predicting crisis (drought, flood, fire, avalanches)
 Crisis are decentralized; help usually is not
 Before hand humanitarian response plan
@@ -162,7 +168,7 @@ Local crisis have global impacts and global crisis have local impacts
 Lowering GHG and GHG emissions will have contra-effect
 Abandon the usage of fossil fuels will have impact on other natural resources (less fossil, more wind and solar)
 
-Key take-aways
-AI and ML will have gain more and more t
+### Key take-aways
 
-Stay aware!
+
+### Stay aware!
